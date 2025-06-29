@@ -21,6 +21,11 @@ OWASP ZAP           Automated scanning and alerting
 Burp Suite	        Manual payload injection and request analysis
 Firefox	            Browser-based interaction with DVWA
 
+
+
+
+
+
 🔍 Vulnerabilities Identified
 #	Vulnerability	                       Type                    	Severity
 1	SQL Injection	                       Manual	                 🔴 High
